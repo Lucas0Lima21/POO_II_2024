@@ -1,0 +1,50 @@
+A Lua é o maior satélite natural da Terra, Verdadeiro
+A Grande Muralha da China é visível do espaço, Falso
+O sangue humano é azul dentro do corpo e se torna vermelho quando exposto ao oxigênio, Falso
+A Antártida é o continente mais quente da Terra, Falso
+As bananas são consideradas bagas, Verdadeiro
+O átomo é a menor unidade da matéria, Verdadeiro
+O Brasil é o maior país do mundo em área territorial, Falso
+O Sol gira em torno da Terra, Falso
+A energia elétrica é um tipo de energia renovável, Verdadeiro
+O osso mais longo do corpo humano é o fêmur, Verdadeiro
+A água ferve a 100 graus Celsius em todas as altitudes, Falso
+O DNA é composto por quatro bases nitrogenadas, Verdadeiro
+O sistema solar tem oito planetas, Falso
+O ouro é o metal mais raro da Terra, Falso
+Os seres humanos podem ver apenas três cores primárias, Falso
+O som não pode viajar no vácuo, Verdadeiro
+A pimenta mais picante do mundo é o jalapeño, Falso
+A Muralha da China tem mais de 10.000 quilômetros de extensão, Verdadeiro
+O planeta mais próximo do Sol é Marte, Falso
+O café desidrata o corpo, Falso
+A água é uma substância composta por dois elementos, Verdadeiro
+O diamante é o material mais duro conhecido pelo homem, Verdadeiro
+A velocidade da luz é cerca de 300.000 quilômetros por segundo, Verdadeiro
+Os golfinhos são mamíferos que botam ovos, Falso
+A Lua não tem atmosfera, Verdadeiro
+O zero absoluto é a temperatura mais baixa possível, Verdadeiro
+A energia solar é uma fonte de energia renovável, Verdadeiro
+O oxigênio é o gás mais abundante na atmosfera terrestre, Falso
+Os cães têm o olfato mais aguçado que os humanos, Verdadeiro
+O sol nasce no leste e se põe no oeste, Verdadeiro
+As baleias são peixes, Falso
+As vacas dormem em pé, Falso
+A tinta branca reflete mais luz do que a tinta preta, Verdadeiro
+O fígado é o maior órgão do corpo humano, Verdadeiro
+O sistema operacional Windows foi desenvolvido pela Apple, Falso
+O sistema decimal é base 8, Falso
+O principal componente do ar que respiramos é o dióxido de carbono, Falso
+A velocidade do som é mais rápida na água do que no ar, Verdadeiro
+O deserto do Saara é o maior do mundo, Verdadeiro
+O oxigênio é necessário para a combustão, Verdadeiro
+O alfabeto chinês é composto por caracteres alfabéticos, Falso
+Os cavalos têm cinco dedos em cada pata, Falso
+O ser humano adulto possui 206 ossos, Verdadeiro
+O fruto do caju é a castanha, Verdadeiro
+A capital do Canadá é Toronto, Falso
+A famosa obra "A Noite Estrelada" foi pintada por Pablo Picasso, Falso
+A clorofila é responsável pela cor verde das plantas, Verdadeiro
+O ácido clorídrico é uma substância básica, Falso
+O Alasca é o estado mais populoso dos Estados Unidos, Falso
+A Roda é uma invenção da civilização Mesopotâmica, Verdadeiro
